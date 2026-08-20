@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Examination/Examination.API/Examination.API.csproj" />
+    <Project Path="src/Examination/Examination.Application/Examination.Application.csproj" />
+    <Project Path="src/Examination/Examination.Infrastructure/Examination.Infrastructure.csproj" />
+    <Project Path="src/Identity.API/Identity.API.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Examination/Examination.Application.UnitTests/Examination.Application.UnitTests.csproj" />
+    <Project Path="tests/Examination/Examination.Domain.UnitTests/Examination.Domain.UnitTests.csproj" />
+    <Project Path="tests/Examination/Examination.Infrastructure.IntegrationTests/Examination.Infrastructure.IntegrationTests.csproj" />
+    <Project Path="tests/Identity.API/Identity.API.IntegrationTests/Identity.API.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
